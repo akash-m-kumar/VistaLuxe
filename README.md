@@ -1,4 +1,5 @@
-VistaLuxe
+*VistaLuxe*
+
 Welcome to VistaLuxe, the premier banking app designed to elevate your financial journey. With a focus on luxury, clarity, and user-friendliness, VistaLuxe provides top-tier tools to help you track spending, optimize savings, and make informed investment decisions.
 
 Key Features:
