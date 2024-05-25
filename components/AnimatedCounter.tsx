@@ -4,10 +4,11 @@ const AnimatedCounter = ({amount}: {amount: number}) => {
   return (
     <div>
         <CountUp 
+         duration={0.50}
          decimals={2}
          decimal="."
          prefix="₹"
-        end={amount} />
+        end={amount}/>
     </div>
   )
 }
