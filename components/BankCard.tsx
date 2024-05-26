@@ -17,12 +17,12 @@ const BankCard = ({account,userName,showBalance= false}: CreditCardProps) => {
                 </p>
             </div>
             <article className="flex flex-col gap-2">
-                <div className="flex justfy-between">
+                <div className="flex justify-between">
                     <h1 className="text-12 font-semibold text-white">
-                        {userName}
+                    {userName}
                     </h1>
                     <h2 className="text-12 font-semibold text-white">
-                     ●● / ●●
+                      ●● / ●●
                     </h2>
                 </div>
                 <p className="text-14 font-semibold tracking-[1.1px] text-white">
@@ -54,6 +54,7 @@ const BankCard = ({account,userName,showBalance= false}: CreditCardProps) => {
         className="absolute top-0 left-0"
         />
         </Link>
+        {/*COPY*/}
     </div>
   )
 }
